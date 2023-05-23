@@ -7,6 +7,20 @@ export default {
   args: {
     src: 'https://github.com/alanfoandrade.png',
     alt: 'Alan Andrade',
+    size: 'md',
+  },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+    size: {
+      options: ['sm', 'md', 'lg', 'xl', '2xl'],
+      control: {
+        type: 'inline-radio',
+      },
+    },
   },
 } as Meta<AvatarProps>;
 

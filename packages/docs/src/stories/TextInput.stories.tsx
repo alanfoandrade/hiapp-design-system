@@ -4,7 +4,16 @@ import type { StoryObj, Meta } from '@storybook/react';
 export default {
   title: 'Form/Text Input',
   component: TextInput,
-  args: {},
+  args: {
+    disabled: false,
+  },
+  argTypes: {
+    disabled: {
+      control: {
+        type: 'boolean',
+      },
+    },
+  },
   decorators: [
     (Story) => (
       <Box
