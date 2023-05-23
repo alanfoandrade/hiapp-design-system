@@ -1,5 +1,11 @@
 # @hiapp-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- Remove docs
+
 ## 2.0.1
 
 ### Patch Changes
