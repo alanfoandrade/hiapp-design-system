@@ -1,0 +1,3 @@
+{
+  "extends": "@hiapp-ui/eslint-config"
+}
