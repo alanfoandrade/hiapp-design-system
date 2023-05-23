@@ -1,5 +1,11 @@
 # @hiapp-ui/tokens
 
+## 3.0.1
+
+### Patch Changes
+
+- cf1e3d2: Remove docs
+
 ## 3.0.0
 
 ### Major Changes
