@@ -1,5 +1,11 @@
 # @hiapp-ui/react
 
+## 4.0.0
+
+### Major Changes
+
+- update docs version
+
 ## 3.0.1
 
 ### Patch Changes
