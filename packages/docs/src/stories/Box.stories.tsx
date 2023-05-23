@@ -1,5 +1,5 @@
 import { Box, BoxProps, Text } from '@hiapp-ui/react';
-import type { StoryObj, Meta } from '@storybook/react';
+import type { Meta, StoryObj } from '@storybook/react';
 
 export default {
   title: 'Surfaces/Box',
