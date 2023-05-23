@@ -21,7 +21,7 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: zTHFvBXbKl8o5xAsw34mQSBD
+          TURBO_TOKEN: Pt2sKg2Y01GhvZpNiP8eTJxu
           TURBO_TEAM: alanfoandrade
 
       - name: Deploy storybook
